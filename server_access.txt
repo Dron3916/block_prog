@@ -1,0 +1,3 @@
+Server access: Yes
+Do not touch this file only if you have permission from the admin
+Last changes - 1:37 02.02.2024
